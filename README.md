@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Szymon
-#### I am a web designer, building on my skills
-
+#### I am a web designer.
 
 Skills: HTML / CSS / JS / Python / MySQL
 
