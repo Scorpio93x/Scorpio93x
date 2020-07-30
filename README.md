@@ -13,7 +13,7 @@ I’m currently learning:
   <br>
   Visitor count
   <br>
-  <img src="https://profile-counter.glitch.me/juancarlosjr97/count.svg" />
+  <img src="https://profile-counter.glitch.me/Scorpio93x/count.svg" />
 </p>
 <!--
 **Scorpio93x/Scorpio93x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
