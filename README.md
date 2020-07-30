@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### I'm Szymon 
+
+
+- I’m currently learning about chrome extensions, react, and python! 
 
 <!--
 **Scorpio93x/Scorpio93x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
