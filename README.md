@@ -1,9 +1,20 @@
 ### Hi there 👋
-#### I'm Szymon 
+### I'm Szymon 
+### A web designer
 
+I’m currently learning:
+  - Chrome extensions
+  - React
+  - Python
+  - Data Structures
+  - Algorithms! 
 
-- I’m currently learning about chrome extensions, react, and python! 
-
+<p align="center">
+  <br>
+  Visitor count
+  <br>
+  <img src="https://profile-counter.glitch.me/juancarlosjr97/count.svg" />
+</p>
 <!--
 **Scorpio93x/Scorpio93x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
